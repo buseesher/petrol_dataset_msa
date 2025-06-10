@@ -41,13 +41,13 @@ A separate dataset for future prediction is loaded from `/content/prediction.csv
 
 *Metrics computed:
 
-    *MSE (Mean Squared Error)
+ -MSE (Mean Squared Error)
 
-    *MAE (Mean Absolute Error)
+ -MAE (Mean Absolute Error)
 
-    *RMSE (Root Mean Squared Error)
+  -RMSE (Root Mean Squared Error)
 
-    *MAPE (Mean Absolute Percentage Error)
+  -MAPE (Mean Absolute Percentage Error)
 
 Example Output:
 
